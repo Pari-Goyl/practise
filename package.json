@@ -2,8 +2,9 @@
   "name": "0_practise_namaste_react",
   "version": "1.0.0",
   "description": "Namaste React Practise till episode-03",
-  "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Pari",
