@@ -1,0 +1,19 @@
+{
+  "name": "0_practise_namaste_react",
+  "version": "1.0.0",
+  "description": "Namaste React Practise till episode-03",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pari",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
